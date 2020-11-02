@@ -1,0 +1,135 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border-color: rgba(0, 0, 255, 0);
+    border-width: 1px;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightgray;
+    width: 1000px;
+    height: 800px;
+}
+
+header{
+    vertical-align: top;
+}
+
+
+.blue{
+    background-color: #689bff;
+    text-align: center;
+    width: 75px;
+    height: 80px;
+    margin-top: 5px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+.blue2{
+    background-color: #689bff;
+    text-align: center;
+    width: 75px;
+    height: 80px;
+    margin-top: 92px;
+    margin-right: 16px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+.ttop{
+    color: red;
+    text-align: center;
+    font-size: larger;
+}
+
+H1{
+    color: #1913a2;
+}
+
+.colum{
+    display: table-cell;
+}
+.cell{
+    text-align: center;
+    color: red;
+    font-size: larger;
+    margin-top: 60px;
+}
+
+.cell1{
+    text-align: center;
+    color: red;
+    font-size: larger;
+    margin-top: 35px;
+}
+
+.cellflx{
+    text-align: center;
+    color: red;
+    font-size: larger;
+    margin-top: 50px;
+    position: absolute;
+}
+
+.red2{
+    background-color: #fd9a98;
+    text-align: center;
+    width: 75px;
+    height: 80px;
+    margin: 266px 0px 0px 0px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+.red{
+    background-color: #fd9a98;
+    text-align: center;
+    margin-top: 5px;
+    width: 75px;
+    height: 80px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+
+.green1{
+    background-color: #1fca21;
+    text-align: center;
+    margin-top: 25px;
+    width: 75px;
+    height: 80px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+.green{
+    background-color: #1fca21;
+    text-align: center;
+    margin-top: 5px;
+    width: 75px;
+    height: 80px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+.yellow2{
+    background-color: #fecb00;
+    text-align: center;
+    width: 75px;
+    height: 80px;
+    margin-top: 92px;
+    border: 1px solid black;
+    vertical-align: middle;   
+}
+
+.yellow{
+    background-color: #fecb00;
+    text-align: center;
+    width: 75px;
+    height: 80px;
+    margin-top: 5px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
